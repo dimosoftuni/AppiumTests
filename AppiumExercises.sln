@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppiumArchive7ZipTest", "AppiumArchive7ZipTest\AppiumArchive7ZipTest.csproj", "{821A9FAE-5FAE-487E-AD28-093A1C9EC9A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppiumVivinoAppTests", "AppiumVivinoAppTests\AppiumVivinoAppTests.csproj", "{DFB72899-E05A-44AD-B21F-1ED834E7BDE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821A9FAE-5FAE-487E-AD28-093A1C9EC9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821A9FAE-5FAE-487E-AD28-093A1C9EC9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821A9FAE-5FAE-487E-AD28-093A1C9EC9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821A9FAE-5FAE-487E-AD28-093A1C9EC9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB72899-E05A-44AD-B21F-1ED834E7BDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB72899-E05A-44AD-B21F-1ED834E7BDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB72899-E05A-44AD-B21F-1ED834E7BDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB72899-E05A-44AD-B21F-1ED834E7BDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {831A3E2E-73E3-460F-904B-26AE2A91F6E9}
+	EndGlobalSection
+EndGlobal
